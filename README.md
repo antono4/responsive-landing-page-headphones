@@ -11,7 +11,7 @@
   <a href="https://github.com/antono4/responsive-landing-page-headphones"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/responsive-landing-page-headphones-blue?logo=github"></a>
   <a href="https://antono4.github.io/responsive-landing-page-headphones/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
   <img alt="Files" src="https://img.shields.io/badge/Files-41-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-31 13:05:00 WIB-lightgrey">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-31 13:44:59 WIB-lightgrey">
 </p>
 
 ---
@@ -64,5 +64,4 @@ Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
 
 ---
 
-<sub>README ini di-generate otomatis pada **2026-08-31 13:05:00 WIB** oleh GitHub Actions .</sub>
-Last updated: 2026-08-31 13:05:07 WIB
+<sub>README ini di-generate otomatis pada **2026-08-31 13:44:59 WIB** oleh GitHub Actions .</sub>
